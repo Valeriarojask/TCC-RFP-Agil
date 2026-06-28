@@ -24,7 +24,7 @@ A solução foi desenvolvida utilizando a Microsoft Power Platform, com arquitet
 
 ## Prints do sistema
 ## Tela inicial
-<img src="link" />width="544" height="334" alt="image" src="https://github.com/user-attachments/assets/c9df5260-e205-457a-a605-5ea5bce42cd0" />
+<img width="850" height="522" alt="image" src="https://github.com/user-attachments/assets/56d887ec-d377-427a-a171-9da1d1b71e9f" />
 
 ## Tela do formulário
 <img width="1502" height="781" alt="image" src="https://github.com/user-attachments/assets/62f1a5ba-5123-4e7a-915e-ca94044ea073" />
